@@ -4,22 +4,22 @@ import streamlit as st
 import requests  # pip install requests
 
 from PIL import Image
-from streamlit_lottie import st_lottie
+# from streamlit_lottie import st_lottie
 
-def load_lottiefile(filepath: str):
-    with open(filepath, "r") as f:
-        return json.load(f)
-
-
-def load_lottieurl(url: str):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-    return r.json()
+# def load_lottiefile(filepath: str):
+#     with open(filepath, "r") as f:
+#         return json.load(f)
 
 
-hire_me=load_lottieurl('https://lottie.host/7ef8bb9d-4b92-48e7-8756-4abec8064f43/IwPQKRHXIA.json')
-lottie_two=load_lottieurl('https://lottie.host/0d4e041a-8f52-4d99-86b7-9e6f94805143/x7ZQC5TqYA.json')
+# def load_lottieurl(url: str):
+#     r = requests.get(url)
+#     if r.status_code != 200:
+#         return None
+#     return r.json()
+
+
+# hire_me=load_lottieurl('https://lottie.host/7ef8bb9d-4b92-48e7-8756-4abec8064f43/IwPQKRHXIA.json')
+# lottie_two=load_lottieurl('https://lottie.host/0d4e041a-8f52-4d99-86b7-9e6f94805143/x7ZQC5TqYA.json')
 
 
 
@@ -134,13 +134,13 @@ for project, link in PROJECTS.items():
 
 
 
-st_lottie(hire_me,
-          speed=1,
-          reverse=False,
-          loop=True,
-          quality="low",  # medium ; high
-          # renderer="svg",  # canvas
-          height=None,
-          width=None,
-          key=None,
-          )
+# st_lottie(hire_me,
+#           speed=1,
+#           reverse=False,
+#           loop=True,
+#           quality="low",  # medium ; high
+#           # renderer="svg",  # canvas
+#           height=None,
+#           width=None,
+#           key=None,
+#           )
