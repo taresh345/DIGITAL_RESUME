@@ -52,6 +52,13 @@ PROJECTS = {
     "🏆TIC TAC TOE- Javascript powered tic tac toe game which have the ability to detect the winner of the game and precursors of the player turn marks":"https://replit.com/join/njfvlknett-tareshgupta" ,
     "🏆WEATHER APP - In this project, I conceived and developed a dynamic Weather App that provides real-time weather information for any city in the world. The app employs a combination of HTML, CSS, and JavaScript, utilizing "
     "the OpenWeather API to fetch and display weather data, including temperature, weather conditions, and more.": " https://replit.com/join/loldboqtbq-tareshgupta",
+     "🏆MODERN BANK LANDING PAGE - I undertook the task of developing a sophisticated web application using React and harnessing the capabilities of Tailwind CSS. Employing functional components, responsive design principles,"
+    " and engaging animations, I curated a seamless user experience, bolstered by meticulous implementation of media queries for impeccable cross-device responsiveness.": "https://github.com/taresh345/LANDING_PAGE_BANK",
+
+
+
+
+ 
 }
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
