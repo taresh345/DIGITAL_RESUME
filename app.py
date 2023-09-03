@@ -54,6 +54,9 @@ PROJECTS = {
     "the OpenWeather API to fetch and display weather data, including temperature, weather conditions, and more.": " https://replit.com/join/loldboqtbq-tareshgupta",
      "🏆MODERN BANK LANDING PAGE - I undertook the task of developing a sophisticated web application using React and harnessing the capabilities of Tailwind CSS. Employing functional components, responsive design principles,"
     " and engaging animations, I curated a seamless user experience, bolstered by meticulous implementation of media queries for impeccable cross-device responsiveness.": "https://github.com/taresh345/LANDING_PAGE_BANK",
+     "🏆 PACMAN - A simple pacman game made in javascript using canvas elements to draw and refresh the game"
+      "and to make sounds when powerups are eaten (work in progress to add enemies and win/lose window screen": "https://replit.com/join/ajftkvcvfh-tareshgupta",
+
 
 
 
