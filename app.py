@@ -49,6 +49,7 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Olympics Dataset Analysis - Insights from Olympics games from 1896 to 2016": "https://olympic-analysis-project.streamlit.app/",
     "🏆FIFA WC analysis  -  Interactive analysis on possible metrics and stats about fifa wc matches 1930-1956": "https://tare-fifawc.streamlit.app/",
+     "🏆PERSONAL GYM development/Excercise App WITH REACT-JS": "https://taresh-gym-app.netlify.app/",
     "🏆TIC TAC TOE- Javascript powered tic tac toe game which have the ability to detect the winner of the game and precursors of the player turn marks":"https://replit.com/join/njfvlknett-tareshgupta" ,
     "🏆WEATHER APP - In this project, I conceived and developed a dynamic Weather App that provides real-time weather information for any city in the world. The app employs a combination of HTML, CSS, and JavaScript, utilizing "
     "the OpenWeather API to fetch and display weather data, including temperature, weather conditions, and more.": " https://replit.com/join/loldboqtbq-tareshgupta",
