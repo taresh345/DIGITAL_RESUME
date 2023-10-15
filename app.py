@@ -47,26 +47,17 @@ SOCIAL_MEDIA = {
     # "Twitter": "https://twitter.com",
 }
 PROJECTS = {
-    "🏆 Olympics Dataset Analysis - Insights from Olympics games from 1896 to 2016": "https://olympic-analysis-project.streamlit.app/",
+ 
     "🏆FIFA WC analysis  -  Interactive analysis on possible metrics and stats about fifa wc matches 1930-1956": "https://tare-fifawc.streamlit.app/",
- 
-     "🏆PERSONAL GYM development/Excercise App WITH REACT-JS": "https://taresh-gym-app.netlify.app/",
-     "🏆Firebase (CRUD) Task Manager built in React js with Authentication and forgot password functionalities": "https://taresh-taskmanager.netlify.app/",
+    "🏆Firebase (CRUD) Task Manager built in React js with Authentication and forgot password functionalities": "https://taresh-taskmanager.netlify.app/",
+    "🏆WEATHER APP - This Weather App is a React-based web application that fetches weather data from the OpenWeather API and displays temperature, humidity,"
+    " and wind speed for a specified location.": "https://6520be20ac0ed726b350ced3--taresh-weatherapp.netlify.app/",
+    "🏆Property Listing Website -Welcome to our Property Listing Website, where you can explore properties in four exciting cities: London, Paris, Rome, and Madrid."
+    " Whether you're looking for your dream home, an investment opportunity, or simply curious about real estate in these vibrant cities, our website has you covered.": "https://property-listing-taresh.netlify.app/",
+    "🏆 PACMAN - A simple pacman game made in javascript using canvas elements to draw and refresh the game"
+            "and to make sounds when powerups are eaten (work in progress to add enemies and win/lose window screen": "https://replit.com/join/ajftkvcvfh-tareshgupta",
+    "🏆PERSONAL GYM development/Excercise App WITH REACT-JS": "https://taresh-gym-app.netlify.app/",
 
- 
-    "🏆TIC TAC TOE- Javascript powered tic tac toe game which have the ability to detect the winner of the game and precursors of the player turn marks":"https://replit.com/join/njfvlknett-tareshgupta" ,
-    "🏆WEATHER APP - In this project, I conceived and developed a dynamic Weather App that provides real-time weather information for any city in the world. The app employs a combination of HTML, CSS, and JavaScript, utilizing "
-    "the OpenWeather API to fetch and display weather data, including temperature, weather conditions, and more.": " https://replit.com/join/loldboqtbq-tareshgupta",
-     "🏆MODERN BANK LANDING PAGE - I undertook the task of developing a sophisticated web application using React and harnessing the capabilities of Tailwind CSS. Employing functional components, responsive design principles,"
-    " and engaging animations, I curated a seamless user experience, bolstered by meticulous implementation of media queries for impeccable cross-device responsiveness.": "https://github.com/taresh345/LANDING_PAGE_BANK",
-     "🏆 PACMAN - A simple pacman game made in javascript using canvas elements to draw and refresh the game"
-      "and to make sounds when powerups are eaten (work in progress to add enemies and win/lose window screen": "https://replit.com/join/ajftkvcvfh-tareshgupta",
-
-
-
-
-
- 
 }
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
